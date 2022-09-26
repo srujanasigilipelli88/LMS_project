@@ -1,0 +1,251 @@
+14:18:08.020 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+14:18:08.032 [main] INFO  BaseClass.java - Browser Type is: null
+14:18:08.033 [main] INFO  BaseClass.java - Base URL is: null
+14:22:48.216 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+14:22:48.222 [main] INFO  BaseClass.java - Browser Type is: null
+14:22:48.223 [main] INFO  BaseClass.java - Base URL is: null
+14:27:20.373 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+14:27:20.379 [main] INFO  BaseClass.java - Browser Type is: Chrome
+14:27:20.380 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+14:27:28.695 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+14:27:28.706 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+14:27:28.706 [main] INFO  BaseClass.java - Browser Type is: Chrome
+14:27:28.707 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+14:27:33.803 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+14:27:33.826 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+14:41:28.096 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+14:41:28.103 [main] INFO  BaseClass.java - Browser Type is: Chrome
+14:41:28.103 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+14:41:36.963 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+14:41:36.970 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+14:41:36.971 [main] INFO  BaseClass.java - Browser Type is: Chrome
+14:41:36.971 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+14:41:43.024 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+14:41:43.180 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+15:17:21.323 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+15:17:21.330 [main] INFO  BaseClass.java - Browser Type is: Chrome
+15:17:21.330 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+15:17:33.475 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+15:17:33.475 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+15:17:33.475 [main] INFO  BaseClass.java - Browser Type is: Chrome
+15:17:33.475 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+15:17:38.029 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+15:17:38.139 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+16:22:37.904 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:22:37.911 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:22:37.912 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:22:44.578 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:22:44.586 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:22:44.587 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:22:44.587 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:22:49.618 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:22:49.635 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+16:54:12.722 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:54:12.735 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:54:12.735 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:54:25.631 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:54:25.663 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:54:25.663 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:54:25.664 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:54:34.429 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:54:34.468 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+23:23:26.539 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+23:23:26.548 [main] INFO  BaseClass.java - Browser Type is: Chrome
+23:23:26.548 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+23:23:41.560 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+23:23:41.579 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+23:23:41.579 [main] INFO  BaseClass.java - Browser Type is: Chrome
+23:23:41.579 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+23:23:50.435 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+23:23:50.495 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+00:29:22.675 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+00:29:22.684 [main] INFO  BaseClass.java - Browser Type is: Chrome
+00:29:22.684 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+00:29:32.888 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+00:29:32.899 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+00:29:32.899 [main] INFO  BaseClass.java - Browser Type is: Chrome
+00:29:32.899 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+00:29:39.459 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+00:29:39.522 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+00:39:33.140 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+00:39:33.150 [main] INFO  BaseClass.java - Browser Type is: Chrome
+00:39:33.151 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+00:39:43.730 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+00:39:43.741 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+00:39:43.741 [main] INFO  BaseClass.java - Browser Type is: Chrome
+00:39:43.742 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+00:39:49.907 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+00:39:49.929 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+01:01:45.636 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+01:01:45.659 [main] INFO  BaseClass.java - Browser Type is: Chrome
+01:01:45.659 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+01:02:00.258 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+01:02:00.278 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+01:02:00.278 [main] INFO  BaseClass.java - Browser Type is: Chrome
+01:02:00.278 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+01:02:09.712 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+01:02:09.753 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+09:30:26.882 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+09:30:26.891 [main] INFO  BaseClass.java - Browser Type is: Chrome
+09:30:26.892 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+09:30:39.351 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+09:30:39.382 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+12:55:44.187 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+12:55:44.195 [main] INFO  BaseClass.java - Browser Type is: Chrome
+12:55:44.196 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+12:55:55.480 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+12:55:55.500 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+12:58:02.088 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+12:58:02.096 [main] INFO  BaseClass.java - Browser Type is: Chrome
+12:58:02.096 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+12:58:10.552 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+12:58:10.570 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+14:17:34.288 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+14:17:34.294 [main] INFO  BaseClass.java - Browser Type is: Chrome
+14:17:34.294 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+14:17:46.594 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+14:17:46.608 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+14:17:47.633 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+14:17:47.633 [main] INFO  BaseClass.java - Browser Type is: Chrome
+14:17:47.633 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+14:17:53.438 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+14:17:53.826 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+14:17:53.826 [main] INFO  BaseClass.java - Browser Type is: Chrome
+14:17:53.826 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+14:17:59.744 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+14:17:59.826 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+14:17:59.826 [main] INFO  BaseClass.java - Browser Type is: Chrome
+14:17:59.826 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+14:18:06.722 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+14:18:06.848 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+14:18:06.848 [main] INFO  BaseClass.java - Browser Type is: Chrome
+14:18:06.848 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+14:18:15.634 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+14:18:15.665 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+14:18:15.665 [main] INFO  BaseClass.java - Browser Type is: Chrome
+14:18:15.665 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+14:18:27.097 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+14:18:27.481 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+14:18:27.481 [main] INFO  BaseClass.java - Browser Type is: Chrome
+14:18:27.481 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+14:18:36.547 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+14:18:36.927 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+14:18:36.927 [main] INFO  BaseClass.java - Browser Type is: Chrome
+14:18:36.927 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+14:18:44.798 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+14:34:25.252 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+14:34:25.261 [main] INFO  BaseClass.java - Browser Type is: Chrome
+14:34:25.261 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+14:34:35.202 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+14:34:35.211 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+14:34:35.211 [main] INFO  BaseClass.java - Browser Type is: Chrome
+14:34:35.211 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+14:34:41.126 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+14:34:41.235 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+16:02:56.306 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:02:56.316 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:02:56.316 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:03:08.681 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:03:08.689 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:03:08.689 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:03:08.689 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:03:14.009 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:03:14.041 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+16:05:53.631 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:05:53.645 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:05:53.646 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:06:03.302 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:06:03.311 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:06:03.312 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:06:03.312 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:06:08.673 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:06:08.698 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+16:06:14.402 [main] INFO  SD_Hp.java - LMS
+16:06:19.412 [main] INFO  SD_Hp.java - LMS
+16:06:23.321 [main] INFO  SD_Hp.java - LMS
+16:06:28.351 [main] INFO  SD_Hp.java - LMS
+16:06:34.391 [main] INFO  SD_Hp.java - LMS
+16:06:47.298 [main] INFO  SD_Hp.java - LMS
+16:07:07.217 [main] INFO  SD_Hp.java - LMS
+16:17:03.951 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:17:03.958 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:17:03.958 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:17:14.401 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:17:14.407 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:17:14.407 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:17:14.408 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:17:19.586 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:17:19.599 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+16:17:23.981 [main] INFO  SD_Hp.java - LMS
+16:17:26.662 [main] INFO  SD_Hp.java - LMS
+16:17:30.540 [main] INFO  SD_Hp.java - LMS
+16:17:36.495 [main] INFO  SD_Hp.java - LMS
+16:17:43.850 [main] INFO  SD_Hp.java - LMS
+16:17:54.548 [main] INFO  SD_Hp.java - LMS
+16:18:04.724 [main] INFO  SD_Hp.java - LMS
+16:35:23.403 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:35:23.410 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:35:23.410 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:35:33.443 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:35:33.451 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:35:33.451 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:35:33.451 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:35:39.623 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:35:39.652 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+16:38:33.299 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:38:33.306 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:38:33.306 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:38:42.003 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:38:42.014 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:38:42.014 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:38:42.014 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:38:46.517 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:38:46.520 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+16:46:43.249 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:46:43.257 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:46:43.257 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:46:51.687 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:46:51.699 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:46:51.699 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:46:51.700 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:46:57.326 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:46:57.366 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+16:46:58.974 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+16:46:59.052 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+16:46:59.131 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+16:46:59.205 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+16:46:59.240 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+16:46:59.305 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+16:46:59.350 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+16:55:38.502 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:55:38.513 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:55:38.513 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:55:49.280 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:55:49.453 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+16:55:49.454 [main] INFO  BaseClass.java - Browser Type is: Chrome
+16:55:49.454 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+16:55:54.263 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+16:55:54.287 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+16:55:56.271 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+16:55:56.371 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+16:55:56.472 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+16:55:56.552 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+16:55:56.591 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+16:55:56.779 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+16:55:56.921 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+17:15:39.245 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+17:15:39.253 [main] INFO  BaseClass.java - Browser Type is: Chrome
+17:15:39.254 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+17:15:50.032 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+17:15:50.264 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+17:15:50.264 [main] INFO  BaseClass.java - Browser Type is: Chrome
+17:15:50.264 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+17:15:55.888 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+17:15:55.921 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+17:15:57.550 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+17:15:57.645 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+17:15:57.752 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+17:15:57.802 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+17:15:57.852 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+17:15:57.896 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+17:15:57.959 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
