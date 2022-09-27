@@ -1,39 +1,54 @@
+
+
 package stepDefinition;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 
 import base.BaseClass;
 import io.cucumber.java.en.*;
+import pageObjects.HomePage_pageobjects;
 import pageObjects.Login_pageobjects;
 import pageObjects.ProgramPage1_pageobjects;
 
 public class SD_Program4  extends BaseClass 
 {
-	WebDriver driver;
+	
 	ProgramPage1_pageobjects pp1;
+	HomePage_pageobjects hpobjects;
+	Logger log = LogManager.getLogger("SD_Program4 .java");
 	WebElement delete_button;
 	
  	
 	@Given("User is on  homepage")
 	public void user_is_on_homepage() 
 	{ 
-		driver = this.driver ;
-		System.out.println("LMS" + driver.getTitle());
+		hpobjects = new HomePage_pageobjects(driver);
+		String title = driver.getTitle();
+		 log.info("LMS @Given User is on Homepage " + title);
 	}
 
 	@When("User is able to see search box")
-	public void user_is_able_to_see_search_box() 
+	public boolean user_is_able_to_see_search_box() 
 	{
 		pp1 = new ProgramPage1_pageobjects(driver);
-		pp1.searchbox();
-		Assert.assertTrue(true);
+		Boolean visible = driver.findElement(By.xpath("//input[@placeholder='Search...']")).isDisplayed();
+		 log.info("LMS @When text on search page is displayed");
+		 Assert.assertTrue(true);
+		 return visible;
+
+		
+		
 	}
 
 	@Then("Text box used for search has text as Search")
 	public void text_box_used_for_search_has_text_as_search() 
 	{
+		pp1 = new ProgramPage1_pageobjects(driver);
 		pp1.text_on_searchbox();
 		Assert.assertEquals(true, true);
 	}
@@ -41,6 +56,7 @@ public class SD_Program4  extends BaseClass
 	@When("User clicks on delete button")
 	public void user_clicks_on_delete_button() 
 	{
+		pp1 = new ProgramPage1_pageobjects(driver);
 		pp1.verify_dlt_btn();
 		
 	}
@@ -48,14 +64,17 @@ public class SD_Program4  extends BaseClass
 	@Then("User should see the Delete button as Disabled")
 	public void user_should_see_the_delete_button_as_disabled() 
 	{
-		Boolean bln = delete_button.isEnabled();
-		if(bln) {
-			System.out.println("delete button is enabled");
-			
-		}
-		else {
-			System.out.println("delete button is Disabled");
-		}
+		pp1 = new ProgramPage1_pageobjects(driver);
+	     pp1.delete_button.isEnabled();
+	     Assert.assertEquals(false, false);
+//		Boolean bln = delete_button.isEnabled();
+//		if(bln) {
+//			System.out.println("delete button is enabled");
+//			
+//		}
+//		else {
+//			System.out.println("delete button is Disabled");
+//		}
 	}
 
 	@When("User counts the number of rows")

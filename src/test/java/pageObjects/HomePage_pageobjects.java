@@ -19,7 +19,7 @@ import org.openqa.selenium.support.PageFactory;
 	  
 	  
 	@FindBy(xpath= "//span[normalize-space()='Program']")
-	private  WebElement program;
+	public  WebElement program;
 	
 	@FindBy(xpath="//span[normalize-space()='Batch']")
 	 public  WebElement batch;

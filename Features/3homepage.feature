@@ -27,8 +27,7 @@ Feature: Home Page
      When User click on the attendence button
     Then User should see a button with text Attendence on the menu bar
     
-     Scenario: Verifying the logout button visibility
-      When User click on the logout
-      Then User should see a button with text logout on the menu bar
-  
-
+     Scenario: verify that user is back on program page
+     Given User click on user page
+     When user click on program button
+     Then user is on program page

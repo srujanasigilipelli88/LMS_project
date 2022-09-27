@@ -1,267 +1,904 @@
-14:18:08.020 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-14:18:08.032 [main] INFO  BaseClass.java - Browser Type is: null
-14:18:08.033 [main] INFO  BaseClass.java - Base URL is: null
-14:22:48.216 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-14:22:48.222 [main] INFO  BaseClass.java - Browser Type is: null
-14:22:48.223 [main] INFO  BaseClass.java - Base URL is: null
-14:27:20.373 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-14:27:20.379 [main] INFO  BaseClass.java - Browser Type is: Chrome
-14:27:20.380 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-14:27:28.695 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-14:27:28.706 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-14:27:28.706 [main] INFO  BaseClass.java - Browser Type is: Chrome
-14:27:28.707 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-14:27:33.803 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-14:27:33.826 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-14:41:28.096 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-14:41:28.103 [main] INFO  BaseClass.java - Browser Type is: Chrome
-14:41:28.103 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-14:41:36.963 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-14:41:36.970 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-14:41:36.971 [main] INFO  BaseClass.java - Browser Type is: Chrome
-14:41:36.971 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-14:41:43.024 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-14:41:43.180 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-15:17:21.323 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-15:17:21.330 [main] INFO  BaseClass.java - Browser Type is: Chrome
-15:17:21.330 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-15:17:33.475 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-15:17:33.475 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-15:17:33.475 [main] INFO  BaseClass.java - Browser Type is: Chrome
-15:17:33.475 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-15:17:38.029 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-15:17:38.139 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-16:22:37.904 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:22:37.911 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:22:37.912 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:22:44.578 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:22:44.586 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:22:44.587 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:22:44.587 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:22:49.618 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:22:49.635 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-16:54:12.722 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:54:12.735 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:54:12.735 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:54:25.631 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:54:25.663 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:54:25.663 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:54:25.664 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:54:34.429 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:54:34.468 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-23:23:26.539 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-23:23:26.548 [main] INFO  BaseClass.java - Browser Type is: Chrome
-23:23:26.548 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-23:23:41.560 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-23:23:41.579 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-23:23:41.579 [main] INFO  BaseClass.java - Browser Type is: Chrome
-23:23:41.579 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-23:23:50.435 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-23:23:50.495 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-00:29:22.675 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-00:29:22.684 [main] INFO  BaseClass.java - Browser Type is: Chrome
-00:29:22.684 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-00:29:32.888 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-00:29:32.899 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-00:29:32.899 [main] INFO  BaseClass.java - Browser Type is: Chrome
-00:29:32.899 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-00:29:39.459 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-00:29:39.522 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-00:39:33.140 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-00:39:33.150 [main] INFO  BaseClass.java - Browser Type is: Chrome
-00:39:33.151 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-00:39:43.730 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-00:39:43.741 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-00:39:43.741 [main] INFO  BaseClass.java - Browser Type is: Chrome
-00:39:43.742 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-00:39:49.907 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-00:39:49.929 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-01:01:45.636 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-01:01:45.659 [main] INFO  BaseClass.java - Browser Type is: Chrome
-01:01:45.659 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-01:02:00.258 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-01:02:00.278 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-01:02:00.278 [main] INFO  BaseClass.java - Browser Type is: Chrome
-01:02:00.278 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-01:02:09.712 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-01:02:09.753 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-09:30:26.882 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-09:30:26.891 [main] INFO  BaseClass.java - Browser Type is: Chrome
-09:30:26.892 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-09:30:39.351 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-09:30:39.382 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-12:55:44.187 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-12:55:44.195 [main] INFO  BaseClass.java - Browser Type is: Chrome
-12:55:44.196 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-12:55:55.480 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-12:55:55.500 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-12:58:02.088 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-12:58:02.096 [main] INFO  BaseClass.java - Browser Type is: Chrome
-12:58:02.096 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-12:58:10.552 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-12:58:10.570 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-14:17:34.288 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-14:17:34.294 [main] INFO  BaseClass.java - Browser Type is: Chrome
-14:17:34.294 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-14:17:46.594 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-14:17:46.608 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-14:17:47.633 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-14:17:47.633 [main] INFO  BaseClass.java - Browser Type is: Chrome
-14:17:47.633 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-14:17:53.438 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-14:17:53.826 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-14:17:53.826 [main] INFO  BaseClass.java - Browser Type is: Chrome
-14:17:53.826 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-14:17:59.744 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-14:17:59.826 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-14:17:59.826 [main] INFO  BaseClass.java - Browser Type is: Chrome
-14:17:59.826 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-14:18:06.722 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-14:18:06.848 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-14:18:06.848 [main] INFO  BaseClass.java - Browser Type is: Chrome
-14:18:06.848 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-14:18:15.634 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-14:18:15.665 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-14:18:15.665 [main] INFO  BaseClass.java - Browser Type is: Chrome
-14:18:15.665 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-14:18:27.097 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-14:18:27.481 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-14:18:27.481 [main] INFO  BaseClass.java - Browser Type is: Chrome
-14:18:27.481 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-14:18:36.547 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-14:18:36.927 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-14:18:36.927 [main] INFO  BaseClass.java - Browser Type is: Chrome
-14:18:36.927 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-14:18:44.798 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-14:34:25.252 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-14:34:25.261 [main] INFO  BaseClass.java - Browser Type is: Chrome
-14:34:25.261 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-14:34:35.202 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-14:34:35.211 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-14:34:35.211 [main] INFO  BaseClass.java - Browser Type is: Chrome
-14:34:35.211 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-14:34:41.126 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-14:34:41.235 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-16:02:56.306 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:02:56.316 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:02:56.316 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:03:08.681 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:03:08.689 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:03:08.689 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:03:08.689 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:03:14.009 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:03:14.041 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-16:05:53.631 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:05:53.645 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:05:53.646 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:06:03.302 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:06:03.311 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:06:03.312 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:06:03.312 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:06:08.673 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:06:08.698 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-16:06:14.402 [main] INFO  SD_Hp.java - LMS
-16:06:19.412 [main] INFO  SD_Hp.java - LMS
-16:06:23.321 [main] INFO  SD_Hp.java - LMS
-16:06:28.351 [main] INFO  SD_Hp.java - LMS
-16:06:34.391 [main] INFO  SD_Hp.java - LMS
-16:06:47.298 [main] INFO  SD_Hp.java - LMS
-16:07:07.217 [main] INFO  SD_Hp.java - LMS
-16:17:03.951 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:17:03.958 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:17:03.958 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:17:14.401 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:17:14.407 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:17:14.407 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:17:14.408 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:17:19.586 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:17:19.599 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-16:17:23.981 [main] INFO  SD_Hp.java - LMS
-16:17:26.662 [main] INFO  SD_Hp.java - LMS
-16:17:30.540 [main] INFO  SD_Hp.java - LMS
-16:17:36.495 [main] INFO  SD_Hp.java - LMS
-16:17:43.850 [main] INFO  SD_Hp.java - LMS
-16:17:54.548 [main] INFO  SD_Hp.java - LMS
-16:18:04.724 [main] INFO  SD_Hp.java - LMS
-16:35:23.403 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:35:23.410 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:35:23.410 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:35:33.443 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:35:33.451 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:35:33.451 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:35:33.451 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:35:39.623 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:35:39.652 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-16:38:33.299 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:38:33.306 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:38:33.306 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:38:42.003 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:38:42.014 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:38:42.014 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:38:42.014 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:38:46.517 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:38:46.520 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-16:46:43.249 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:46:43.257 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:46:43.257 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:46:51.687 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:46:51.699 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:46:51.699 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:46:51.700 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:46:57.326 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:46:57.366 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-16:46:58.974 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-16:46:59.052 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-16:46:59.131 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-16:46:59.205 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-16:46:59.240 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-16:46:59.305 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-16:46:59.350 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-16:55:38.502 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:55:38.513 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:55:38.513 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:55:49.280 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:55:49.453 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-16:55:49.454 [main] INFO  BaseClass.java - Browser Type is: Chrome
-16:55:49.454 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-16:55:54.263 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-16:55:54.287 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-16:55:56.271 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-16:55:56.371 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-16:55:56.472 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-16:55:56.552 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-16:55:56.591 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-16:55:56.779 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-16:55:56.921 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-17:15:39.245 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-17:15:39.253 [main] INFO  BaseClass.java - Browser Type is: Chrome
-17:15:39.254 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-17:15:50.032 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-17:15:50.264 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-17:15:50.264 [main] INFO  BaseClass.java - Browser Type is: Chrome
-17:15:50.264 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-17:15:55.888 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-17:15:55.921 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-17:15:57.550 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-17:15:57.645 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-17:15:57.752 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-17:15:57.802 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-17:15:57.852 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-17:15:57.896 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-17:15:57.959 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-17:18:18.594 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-17:18:18.603 [main] INFO  BaseClass.java - Browser Type is: Chrome
-17:18:18.603 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-17:18:34.618 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-17:18:34.741 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
-17:18:34.741 [main] INFO  BaseClass.java - Browser Type is: Chrome
-17:18:34.741 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
-17:18:39.153 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
-17:18:39.175 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
-17:18:40.671 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-17:18:40.734 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-17:18:40.813 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-17:18:40.872 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-17:18:40.912 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-17:18:40.973 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
-17:18:41.059 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+20:06:36.331 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+20:06:36.338 [main] INFO  BaseClass.java - Browser Type is: Chrome
+20:06:36.338 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+20:06:46.495 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+20:06:46.685 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+20:06:48.510 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+20:06:48.575 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+20:06:48.633 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+20:06:48.689 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+20:06:48.737 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+20:06:48.796 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+20:06:48.848 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+20:12:48.597 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+20:12:48.604 [main] INFO  BaseClass.java - Browser Type is: Chrome
+20:12:48.605 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+20:12:58.971 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+20:12:59.092 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+20:13:00.631 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+20:13:00.681 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+20:13:00.726 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+20:13:00.776 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+20:13:00.822 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+20:13:00.875 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+20:13:00.913 [main] INFO  SD_Hp.java - LMS @Given User is on Homepage LMS
+20:29:23.329 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+20:29:23.340 [main] INFO  BaseClass.java - Browser Type is: Chrome
+20:29:23.341 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+20:29:34.095 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+20:29:34.245 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+20:29:35.812 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:29:35.944 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:29:36.204 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:29:36.303 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:29:36.362 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:29:36.427 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:29:36.513 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:31:35.088 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+20:31:35.096 [main] INFO  BaseClass.java - Browser Type is: Chrome
+20:31:35.096 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+20:31:44.430 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+20:31:44.901 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+20:31:46.034 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:31:46.034 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+20:31:46.143 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:31:46.206 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:31:46.238 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:31:46.276 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:31:46.301 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:31:46.348 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:34:45.059 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+20:34:45.067 [main] INFO  BaseClass.java - Browser Type is: Chrome
+20:34:45.067 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+20:34:54.699 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+20:34:54.836 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+20:34:56.114 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:34:56.115 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+20:34:56.210 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:34:56.280 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:34:56.339 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:34:56.375 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:34:56.406 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:34:56.547 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:38:58.564 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+20:38:58.570 [main] INFO  BaseClass.java - Browser Type is: Chrome
+20:38:58.570 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+20:39:09.832 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+20:39:10.077 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+20:39:11.609 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:39:11.610 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+20:39:11.752 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+20:39:11.786 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:39:11.843 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:39:11.880 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:39:11.925 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:39:11.969 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:39:12.007 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:44:26.910 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+20:44:26.919 [main] INFO  BaseClass.java - Browser Type is: Chrome
+20:44:26.919 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+20:44:36.430 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+20:44:36.539 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+20:44:37.738 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:44:37.740 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+20:44:37.875 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+20:44:37.921 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:44:38.045 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+20:44:38.133 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the prog: 
+20:44:38.205 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:44:38.285 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:44:38.357 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:44:38.413 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:44:38.461 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:58:53.944 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+20:58:53.951 [main] INFO  BaseClass.java - Browser Type is: Chrome
+20:58:53.952 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+20:59:05.629 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+20:59:05.751 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+20:59:06.946 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:59:06.946 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+20:59:07.081 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+20:59:07.128 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:59:07.255 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+20:59:07.330 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the prog: 
+20:59:07.369 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:59:07.577 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+20:59:07.705 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+20:59:07.794 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:59:08.025 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+20:59:08.218 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+20:59:08.266 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:59:08.442 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+20:59:08.689 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+20:59:08.737 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:59:08.868 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+20:59:09.137 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+20:59:09.177 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+20:59:09.353 [main] INFO  SD_Homepage.java - LMS @When user clicks on the logout 
+21:03:13.565 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+21:03:13.575 [main] INFO  BaseClass.java - Browser Type is: Chrome
+21:03:13.576 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+21:03:23.064 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+21:03:23.160 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+21:03:24.377 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:03:24.381 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+21:03:24.560 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+21:03:24.592 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:03:24.684 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+21:03:24.754 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+21:03:24.808 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:03:24.990 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+21:03:25.114 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+21:03:25.175 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:03:25.356 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+21:03:25.561 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+21:03:25.627 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:03:25.807 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+21:03:26.117 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+21:03:26.231 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:03:26.391 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+21:03:26.656 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+21:03:26.696 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:03:26.860 [main] INFO  SD_Homepage.java - LMS @When user clicks on the logout 
+21:07:19.116 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+21:07:19.124 [main] INFO  BaseClass.java - Browser Type is: Chrome
+21:07:19.124 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+21:07:28.484 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+21:07:28.576 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+21:07:29.533 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:07:29.534 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+21:07:29.665 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+21:07:29.696 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:07:29.831 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+21:07:29.904 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+21:07:29.947 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:07:30.145 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+21:07:30.329 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+21:07:30.378 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:07:30.576 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+21:07:30.765 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+21:07:30.807 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:07:30.965 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+21:07:31.349 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+21:07:31.433 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:07:31.581 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+21:07:31.844 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+21:07:31.892 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:07:32.031 [main] INFO  SD_Homepage.java - LMS @When user clicks on the logout 
+21:39:17.066 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+21:39:17.074 [main] INFO  BaseClass.java - Browser Type is: Chrome
+21:39:17.074 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+21:39:29.385 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+21:39:29.771 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+21:39:31.531 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:39:31.543 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+21:39:31.736 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+21:39:31.797 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:39:31.946 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+21:39:32.069 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+21:39:32.171 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:39:32.709 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+21:39:33.110 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+21:39:33.179 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:39:33.404 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+21:39:33.677 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+21:39:33.727 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:39:33.926 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+21:39:34.235 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+21:39:34.283 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:39:34.428 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+21:39:34.698 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+21:39:34.745 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:39:35.009 [main] INFO  SD_Homepage.java - LMS @When user clicks on the logout 
+21:43:13.917 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+21:43:13.925 [main] INFO  BaseClass.java - Browser Type is: Chrome
+21:43:13.926 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+21:43:25.536 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+21:43:25.819 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+21:43:28.597 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:43:28.612 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+21:43:29.195 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+21:43:29.298 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:43:29.499 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+21:43:29.603 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+21:43:29.728 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:43:30.534 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+21:43:30.686 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+21:43:30.742 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:43:31.875 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+21:43:32.133 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+21:43:32.333 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:43:32.636 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+21:43:33.030 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+21:43:33.107 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:43:33.654 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+21:43:34.247 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+21:43:34.291 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:43:34.801 [main] INFO  SD_Homepage.java - LMS @When user clicks on the logout 
+21:44:59.000 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+21:44:59.008 [main] INFO  BaseClass.java - Browser Type is: Chrome
+21:44:59.008 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+21:45:08.747 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+21:45:08.870 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+21:45:10.516 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:45:10.518 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+21:45:10.674 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+21:45:10.719 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:45:11.125 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+21:45:11.177 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+21:45:11.229 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:45:11.470 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+21:45:11.626 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+21:45:11.730 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:45:11.958 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+21:45:12.155 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+21:45:12.196 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:45:12.402 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+21:45:12.694 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+21:45:12.734 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:45:12.843 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+21:45:13.091 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+21:45:13.278 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:46:14.844 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+21:46:14.855 [main] INFO  BaseClass.java - Browser Type is: Chrome
+21:46:14.855 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+21:46:25.022 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+21:46:25.116 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+21:46:26.250 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:46:26.250 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+21:46:26.377 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+21:46:26.581 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:46:26.773 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+21:46:26.867 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+21:46:26.942 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:46:27.169 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+21:46:27.339 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+21:46:27.434 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:46:27.806 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+21:46:27.982 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+21:46:28.031 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:46:28.234 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+21:46:28.776 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+21:46:28.833 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:46:28.966 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+21:46:29.249 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+21:46:29.392 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:52:32.967 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+21:52:32.975 [main] INFO  BaseClass.java - Browser Type is: Chrome
+21:52:32.975 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+21:52:45.210 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+21:52:45.418 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+21:52:47.075 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:52:47.091 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+21:52:47.217 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+21:52:47.263 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:52:47.403 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+21:52:47.485 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+21:52:47.553 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:52:47.802 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+21:52:48.010 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+21:52:48.064 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:52:48.315 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+21:52:48.493 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+21:52:48.533 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:52:48.695 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+21:52:48.980 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+21:52:49.018 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+21:52:49.133 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+21:52:49.325 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+21:52:49.425 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:19:59.572 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+22:19:59.580 [main] INFO  BaseClass.java - Browser Type is: Chrome
+22:19:59.581 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+22:20:11.495 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+22:20:11.615 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+22:20:12.929 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:20:12.930 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+22:20:13.126 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+22:20:13.184 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:20:13.372 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+22:20:13.474 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+22:20:13.565 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:20:13.867 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+22:20:14.047 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+22:20:14.111 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:20:14.339 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+22:20:14.512 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+22:20:14.578 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:20:14.751 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+22:20:15.051 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+22:20:15.092 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:20:15.218 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+22:20:15.417 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+22:41:43.978 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+22:41:43.985 [main] INFO  BaseClass.java - Browser Type is: Chrome
+22:41:43.986 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+22:41:54.035 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+22:41:54.285 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+22:41:55.842 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:41:55.844 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+22:41:56.004 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+22:41:56.064 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:41:56.509 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+22:41:56.613 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+22:41:56.749 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:41:56.973 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+22:41:57.138 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+22:41:57.247 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:41:57.517 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+22:41:57.796 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+22:41:57.905 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:41:58.587 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+22:41:58.874 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+22:41:58.914 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:41:59.065 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+22:41:59.313 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+22:45:36.515 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+22:45:36.523 [main] INFO  BaseClass.java - Browser Type is: Chrome
+22:45:36.523 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+22:45:46.576 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+22:45:46.699 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+22:45:47.991 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:45:47.991 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+22:45:48.107 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+22:45:48.137 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:45:48.285 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+22:45:48.357 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+22:45:48.424 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:45:48.612 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+22:45:48.748 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+22:45:48.820 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:45:48.988 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+22:45:49.182 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+22:45:49.222 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:45:49.398 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+22:45:49.655 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+22:45:49.687 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:45:49.791 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+22:45:49.992 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+22:45:50.040 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:45:50.056 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:45:50.192 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+22:45:50.208 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:48:26.266 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+22:48:26.274 [main] INFO  BaseClass.java - Browser Type is: Chrome
+22:48:26.274 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+22:48:36.208 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+22:48:36.308 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+22:48:37.479 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:48:37.479 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+22:48:37.610 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+22:48:37.666 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:48:37.767 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+22:48:37.847 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+22:48:37.895 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:48:38.083 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+22:48:38.224 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+22:48:38.290 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:48:38.522 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+22:48:38.747 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+22:48:38.782 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:48:38.962 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+22:48:39.297 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+22:48:39.332 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:48:39.455 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+22:48:39.675 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+22:48:39.715 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:48:39.731 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:48:39.847 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+22:48:39.865 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:48:39.947 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+22:48:40.140 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+22:48:40.183 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+22:48:40.223 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+22:48:40.258 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+22:53:21.489 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+22:53:21.498 [main] INFO  BaseClass.java - Browser Type is: Chrome
+22:53:21.499 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+22:53:31.753 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+22:53:31.859 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+22:53:32.956 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:53:32.957 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+22:53:33.093 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+22:53:33.152 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:53:33.777 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+22:53:33.969 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+22:53:34.621 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:53:35.013 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+22:53:35.305 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+22:53:35.364 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:53:35.609 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+22:53:35.921 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+22:53:35.988 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:53:36.215 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+22:53:36.580 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+22:53:36.620 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:53:36.754 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+22:53:37.058 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+22:53:37.123 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:53:37.147 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:53:37.324 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+22:53:37.340 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:53:37.420 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+22:53:37.479 [main] INFO  SD_Program4 .java - LMS @Then text on page is displayed : true
+22:53:37.579 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+22:53:37.630 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+22:53:37.663 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+22:53:37.697 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+22:56:42.081 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+22:56:42.088 [main] INFO  BaseClass.java - Browser Type is: Chrome
+22:56:42.088 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+22:56:52.069 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+22:56:52.571 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+22:56:54.093 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:56:54.093 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+22:56:54.265 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+22:56:54.313 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:56:54.585 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+22:56:54.665 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+22:56:54.737 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:56:54.996 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+22:56:55.154 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+22:56:55.226 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:56:55.455 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+22:56:55.693 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+22:56:55.744 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:56:55.964 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+22:56:56.371 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+22:56:56.419 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:56:56.595 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+22:56:56.843 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+22:56:56.891 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:56:56.955 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:56:57.131 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+22:56:57.163 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+22:56:57.326 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+22:56:57.417 [main] INFO  SD_Program4 .java - LMS @When text on search page is displayed
+22:56:57.529 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+22:56:57.585 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+22:56:57.643 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+22:56:57.699 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+23:00:52.430 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+23:00:52.437 [main] INFO  BaseClass.java - Browser Type is: Chrome
+23:00:52.437 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+23:01:02.837 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+23:01:02.989 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+23:01:04.395 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:01:04.395 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+23:01:04.551 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+23:01:04.583 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:01:04.705 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+23:01:04.777 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+23:01:04.817 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:01:05.011 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+23:01:05.154 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+23:01:05.228 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:01:05.461 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+23:01:05.621 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+23:01:05.661 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:01:05.864 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+23:01:06.253 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+23:01:06.320 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:01:06.545 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+23:01:06.938 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+23:01:07.003 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:01:07.019 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:01:07.184 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+23:01:07.216 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:01:07.419 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+23:01:07.620 [main] INFO  SD_Program4 .java - LMS @When text on search page is displayed
+23:01:07.762 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+23:01:07.869 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+23:01:07.954 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+23:01:08.001 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+23:03:55.818 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+23:03:55.826 [main] INFO  BaseClass.java - Browser Type is: Chrome
+23:03:55.826 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+23:04:05.431 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+23:04:05.559 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+23:04:06.988 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:04:06.988 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+23:04:07.223 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+23:04:07.276 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:04:07.412 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+23:04:07.484 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+23:04:07.556 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:04:07.783 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+23:04:07.985 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+23:04:08.112 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:04:08.461 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+23:04:08.661 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+23:04:08.727 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:04:08.942 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+23:04:09.502 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+23:04:09.558 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:04:09.904 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+23:04:10.434 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+23:04:10.475 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:04:10.493 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:04:10.676 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+23:04:10.762 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:04:10.810 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+23:04:10.891 [main] INFO  SD_Program4 .java - LMS @When text on search page is displayed
+23:04:11.023 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+23:04:11.251 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+23:04:11.319 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+23:04:11.359 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+23:12:28.373 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+23:12:28.382 [main] INFO  BaseClass.java - Browser Type is: Chrome
+23:12:28.382 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+23:12:36.335 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+23:12:36.487 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+23:12:37.614 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:12:37.615 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+23:12:37.751 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+23:12:37.878 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:12:38.111 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+23:12:38.216 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+23:12:38.286 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:12:38.556 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+23:12:38.656 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+23:12:38.728 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:12:39.079 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+23:12:39.270 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+23:12:39.329 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:12:39.512 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+23:12:39.830 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+23:12:39.886 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:12:40.030 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+23:12:40.220 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+23:12:40.311 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:12:40.320 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:12:40.427 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+23:12:40.446 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+23:12:40.512 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+23:12:40.587 [main] INFO  SD_Program4 .java - LMS @When text on search page is displayed
+23:12:40.672 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+23:12:40.920 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+23:12:40.970 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+23:12:41.020 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+01:18:18.655 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+01:18:18.669 [main] INFO  BaseClass.java - Browser Type is: Chrome
+01:18:18.670 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+01:18:30.346 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+01:18:30.646 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+01:18:31.818 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:18:31.818 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+01:18:31.937 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+01:18:31.968 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:18:32.068 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+01:18:32.140 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+01:18:32.180 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:18:32.411 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+01:18:32.571 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+01:18:32.612 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:18:32.793 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+01:18:32.988 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+01:18:33.038 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:18:33.226 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+01:18:33.595 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+01:18:33.646 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:18:33.798 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+01:18:34.056 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+01:18:34.096 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:18:34.112 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:18:34.256 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+01:18:34.264 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:18:34.376 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+01:18:34.573 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+01:18:34.677 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+01:18:34.709 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+01:18:34.741 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+01:18:34.773 [main] INFO  SD_Program4 .java - LMS @Given User is on programpage LMS
+01:18:34.837 [main] INFO  SD_Program4 .java - LMS @Given User is on programpage LMS
+01:18:34.893 [main] INFO  SD_Program4 .java - LMS @Given User is on programpage LMS
+01:18:34.925 [main] INFO  SD_Program4 .java - LMS @Given User is on programpage LMS
+01:18:34.949 [main] INFO  SD_Program4 .java - LMS @Given User is on programpage LMS
+01:18:35.152 [main] INFO  SD_Program6 .java - LMS @Given User is on Homepage LMS
+01:51:59.996 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+01:52:00.007 [main] INFO  BaseClass.java - Browser Type is: Chrome
+01:52:00.007 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+01:52:11.139 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+01:52:11.287 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+01:52:13.020 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:52:13.020 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+01:52:13.193 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+01:52:13.412 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:52:13.608 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+01:52:13.688 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+01:52:13.784 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:52:14.044 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+01:52:14.180 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+01:52:14.220 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:52:14.468 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+01:52:14.652 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+01:52:14.700 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:52:14.900 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+01:52:15.260 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+01:52:15.292 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:52:15.548 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+01:52:15.733 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+01:52:15.893 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:52:15.933 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:52:16.093 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+01:52:16.109 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:52:16.192 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+01:52:16.278 [main] INFO  SD_Program4 .java - LMS @When text on search page is displayed
+01:52:16.376 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+01:52:16.575 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+01:52:16.615 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+01:52:16.647 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+01:58:21.775 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+01:58:21.781 [main] INFO  BaseClass.java - Browser Type is: Chrome
+01:58:21.781 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+01:58:31.648 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+01:58:31.756 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+01:58:32.930 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:58:32.931 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+01:58:33.142 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+01:58:33.181 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:58:33.298 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+01:58:33.393 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+01:58:33.432 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:58:33.654 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+01:58:33.806 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+01:58:33.849 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:58:34.113 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+01:58:34.404 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+01:58:34.530 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:58:34.729 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+01:58:35.021 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+01:58:35.063 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:58:35.214 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+01:58:35.480 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+01:58:35.518 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:58:35.534 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:58:35.668 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+01:58:35.690 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+01:58:35.733 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+01:58:35.865 [main] INFO  SD_Program4 .java - LMS @When text on search page is displayed
+01:58:35.947 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+01:58:36.121 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+01:58:36.148 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+01:58:36.171 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+01:58:36.300 [main] INFO  SD_Program6 .java - LMS @Given User is on Homepage LMS
+02:00:22.363 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+02:00:22.370 [main] INFO  BaseClass.java - Browser Type is: Chrome
+02:00:22.370 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+02:00:33.936 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+02:00:34.186 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+02:00:35.365 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:00:35.365 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+02:00:35.511 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+02:00:35.558 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:00:35.704 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+02:00:35.784 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+02:00:35.824 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:00:36.066 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+02:00:36.226 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+02:00:36.274 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:00:36.421 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+02:00:36.598 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+02:00:36.638 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:00:36.812 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+02:00:37.080 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+02:00:37.112 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:00:37.236 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+02:00:37.448 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+02:00:37.488 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:00:37.496 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:00:37.619 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+02:00:37.635 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:00:37.699 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:00:37.763 [main] INFO  SD_Program4 .java - LMS @When text on search page is displayed
+02:00:37.862 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:00:38.029 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:00:38.062 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:00:38.088 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:00:38.205 [main] INFO  SD_Program6 .java - LMS @Given User is on Homepage LMS
+02:06:35.896 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+02:06:35.909 [main] INFO  BaseClass.java - Browser Type is: Chrome
+02:06:35.909 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+02:07:05.022 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+02:07:05.221 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+02:07:07.256 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:07:07.257 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+02:07:08.004 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+02:07:08.219 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:07:08.372 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+02:07:08.491 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+02:07:08.555 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:07:08.877 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+02:07:09.177 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+02:07:09.296 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:07:09.612 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+02:07:09.976 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+02:07:10.040 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:07:10.428 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+02:07:10.804 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+02:07:10.873 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:07:11.187 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+02:07:12.103 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+02:07:12.239 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:07:12.319 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:07:12.804 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+02:07:13.055 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:07:13.532 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:07:13.830 [main] INFO  SD_Program4 .java - LMS @When text on search page is displayed
+02:07:14.050 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:07:14.682 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:07:14.722 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:07:14.754 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:07:14.962 [main] INFO  SD_Program6 .java - LMS @Given User is on Homepage LMS
+02:13:13.285 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+02:13:13.292 [main] INFO  BaseClass.java - Browser Type is: Chrome
+02:13:13.292 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+02:13:22.633 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+02:13:22.760 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+02:13:24.367 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:13:24.367 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+02:13:24.559 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+02:13:24.607 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:13:24.718 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+02:13:24.814 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+02:13:24.862 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:13:25.134 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+02:13:25.316 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+02:13:25.367 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:13:25.598 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+02:13:25.959 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+02:13:26.059 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:13:26.240 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+02:13:26.632 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+02:13:26.690 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:13:26.880 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+02:13:27.308 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+02:13:27.391 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:13:27.416 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:13:27.643 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+02:13:27.661 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:13:27.733 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:13:27.845 [main] INFO  SD_Program4 .java - LMS @When text on search page is displayed
+02:13:27.961 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:13:28.134 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:13:28.176 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:13:28.216 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:13:28.359 [main] INFO  SD_Program6 .java - LMS @Given User is on Homepage LMS
+02:17:47.118 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+02:17:47.125 [main] INFO  BaseClass.java - Browser Type is: Chrome
+02:17:47.125 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+02:17:57.974 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+02:17:58.190 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+02:17:59.326 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:17:59.330 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+02:18:00.523 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+02:18:00.751 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:18:00.959 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+02:18:01.042 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+02:18:01.092 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:18:01.529 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+02:18:01.708 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+02:18:01.867 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:18:02.145 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+02:18:02.365 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+02:18:02.445 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:18:02.763 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+02:18:03.089 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+02:18:03.121 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:18:03.266 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+02:18:03.468 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+02:18:03.516 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:18:03.533 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:18:03.661 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+02:18:03.677 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:18:03.759 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:18:03.853 [main] INFO  SD_Program4 .java - LMS @When text on search page is displayed
+02:18:03.959 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:18:04.127 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:18:04.179 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:18:04.211 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:18:04.331 [main] INFO  SD_Program6 .java - LMS @Given User is on Homepage LMS
+02:19:16.051 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+02:19:16.060 [main] INFO  BaseClass.java - Browser Type is: Chrome
+02:19:16.060 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+02:19:29.299 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+02:19:29.529 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+02:19:30.750 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:19:30.751 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+02:19:31.064 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+02:19:31.152 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:19:31.265 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+02:19:31.396 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+02:19:31.485 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:19:31.699 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+02:19:31.847 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+02:19:32.552 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:19:32.941 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+02:19:33.162 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+02:19:33.193 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:19:33.365 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+02:19:33.833 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+02:19:33.882 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:19:34.061 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+02:19:34.414 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+02:19:34.450 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:19:34.478 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:19:34.976 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+02:19:35.001 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:19:35.051 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:19:35.130 [main] INFO  SD_Program4 .java - LMS @When text on search page is displayed
+02:19:35.234 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:19:35.534 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:19:35.576 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:19:35.615 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:19:35.855 [main] INFO  SD_Program6 .java - LMS @Given User is on Homepage LMS
+02:28:28.952 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+02:28:28.959 [main] INFO  BaseClass.java - Browser Type is: Chrome
+02:28:28.959 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+02:28:42.707 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+02:28:42.866 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+02:28:44.016 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:28:44.016 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+02:28:44.169 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+02:28:44.216 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:28:44.330 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+02:28:44.409 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+02:28:44.449 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:28:44.633 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+02:28:44.770 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+02:28:44.838 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:28:45.028 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+02:28:45.214 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+02:28:45.254 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:28:45.445 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+02:28:46.038 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+02:28:46.095 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:28:46.244 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+02:28:46.479 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+02:28:46.521 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:28:46.537 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:28:46.676 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+02:28:46.716 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:28:46.904 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:28:46.979 [main] INFO  SD_Program4 .java - LMS @When text on search page is displayed
+02:28:47.075 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:28:47.267 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:28:47.299 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:28:47.331 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:28:47.443 [main] INFO  SD_Program6 .java - LMS @Given User is on programpage LMS
+02:33:50.040 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+02:33:50.051 [main] INFO  BaseClass.java - Browser Type is: Chrome
+02:33:50.051 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+02:34:01.374 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+02:34:01.647 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+02:34:03.933 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:34:03.933 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+02:34:04.087 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+02:34:04.134 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:34:04.235 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+02:34:04.315 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+02:34:04.355 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:34:04.573 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+02:34:04.723 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+02:34:04.779 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:34:04.993 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+02:34:05.227 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+02:34:05.275 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:34:05.439 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+02:34:05.786 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+02:34:05.843 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:34:05.976 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+02:34:06.208 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+02:34:06.255 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:34:06.263 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:34:06.384 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+02:34:06.409 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+02:34:06.474 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:34:06.551 [main] INFO  SD_Program4 .java - LMS @When text on search page is displayed
+02:34:06.678 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:34:06.901 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:34:06.937 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:34:06.968 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+02:34:07.009 [main] INFO  SD_Program6 .java - LMS @Given User is on programpage LMS
+02:34:07.299 [main] INFO  SD_Program6 .java - LMS @Given User is on programpage LMS
+02:34:07.610 [main] INFO  SD_Program6 .java - LMS @Given User is on programpage LMS

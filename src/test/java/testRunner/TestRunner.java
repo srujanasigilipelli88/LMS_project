@@ -1,4 +1,4 @@
-1package testRunner;
+package testRunner;
 
 
 import org.junit.runner.RunWith;
@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(plugin = {"pretty","html:target/cucumber.htmi"},
                          monochrome = true ,
                          dryRun = false ,
-                         features = "C:\\Users\\Sruja\\eclipse-workspace\\LMS_hackathon_phase2\\Features",
+                         features = "C:\\Users\\Sruja\\git\\LMS_hackathon_phase2\\Features",
                          glue = {"stepDefinition" ,"Hooks"})
                          
                          

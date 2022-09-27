@@ -8,6 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 public class ProgramPage1_pageobjects 
 {
 
+
 	public ProgramPage1_pageobjects(WebDriver driver)
 	{
 		PageFactory.initElements(driver, this);
@@ -33,8 +34,20 @@ public class ProgramPage1_pageobjects
 	
 	public void text_on_searchbox()
 	{
-		search_box.getAttribute(null);
+		search_box.getAttribute("");
+		
 	}
+	 
+	public String Validatesearch()
+	{
+	 search_box.sendKeys("");
+	return ("");
+		
+		
+	}
+	
+	
+	
 	
 	public void verify_dlt_btn()
 	{

@@ -10,7 +10,7 @@ package utilities;
 		Properties prop;
 		public ReadConfig()
 		{
-			String FilePath = "C:\\Users\\Sruja\\eclipse-workspace\\LMS_hackathon_phase2\\configuratrion\\ReadConfig.properties";
+			String FilePath = "C:\\Users\\Sruja\\git\\LMS_hackathon_phase2\\configuratrion\\ReadConfig.properties";
 			try {
 				FileInputStream fis = new FileInputStream(FilePath);
 				prop = new Properties();
@@ -19,6 +19,10 @@ package utilities;
 				System.out.println("Error message " + e.getMessage());
 			}
 			
+		}
+		
+		public String get_search_prog() {
+			return prop.getProperty("SearchprogramName");
 		}
 		    // Get Application baseURl
 			public String getApplicationURL() {

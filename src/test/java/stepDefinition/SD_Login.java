@@ -11,7 +11,7 @@ import pageObjects.Login_pageobjects;
 public class SD_Login extends BaseClass   {
 	Logger log = LogManager.getLogger("SD_Login.java");
 	
-	Login_pageobjects lpobjects = new Login_pageobjects(driver);
+	Login_pageobjects lpobjects;
 	String title;
 
 	 
@@ -20,7 +20,7 @@ public class SD_Login extends BaseClass   {
 	@Given("user is  on browser")
 	public void user_is_on_browser() {
 		System.out.println("Test");
-		setUpDriver();
+		lpobjects = new Login_pageobjects(driver);
 		
 	}
 
